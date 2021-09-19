@@ -1,2 +1,2 @@
 # Scenario
-folders
+This first Allah Bamu Sa'a File has three folders where it read from the input file name input.txt and produce the output in the output folder in form of output.xml. You can delete the output.xml and re-run the PHP file it will reproduce the output.xml again. The error file will produce the text of either single error or general error. So, you can form an error either single or general and run the PHP and open error.txt you will see it represent the validation either in form of the single error or double error.
